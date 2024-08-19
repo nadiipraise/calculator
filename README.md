@@ -1,6 +1,4 @@
-Certainly! Below is a detailed `README.md` file for your calculator project. This file will provide an overview of the project, explain its functionality, and guide users on how to set it up and use it.
 
----
 
 # Calculator App
 
@@ -110,6 +108,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Thanks to the open-source community for providing the tools and libraries that made this project possible.
 
 ## Contact
+send me a mail @qelvinqelvin008@gmail.com for feedbacks, collaborations and contributions.
 
 For questions or feedback, please reach out to [your.email@example.com](mailto:your.email@example.com).
 
